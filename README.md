@@ -2,5 +2,10 @@
 
 ```bash
 # install packages
-$ yarn add @nestjs/typeorm typeorm mysql2
+$ yarn
+
+# setup database configured @app.module.ts
+
+# yarn start:dev
+
 ```
