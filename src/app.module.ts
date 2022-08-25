@@ -16,7 +16,7 @@ import { UsersModule } from './users/users.module';
       port: 3306,
       username: 'root',
       password: '',
-      database: 'myaccess-two',
+      database: 'nest-typeorm',
       entities: [User, Profile, Post],
       synchronize: true, //for development only
     }),
